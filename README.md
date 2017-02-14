@@ -13,8 +13,8 @@ Steps to use app:
 a. Hair Selection 
 b. Face Paint
 
-
-Inline image 1
+[[https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/page1.png|alt=octocat]]
+ Main Page
 
 
 
