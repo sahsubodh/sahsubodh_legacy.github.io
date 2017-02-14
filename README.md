@@ -14,7 +14,7 @@ a. Hair Selection
 b. Face Paint
 
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/page1.png" width="250" height="450">
+<img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/page1.png" width="250" height="450">
 
 
 
@@ -25,11 +25,11 @@ We have two options of hair styles shown as 1 and 2 button.  To remove  selectio
 
 after selecting the hair style press the back button.
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/page2.png" width="250" height="450">
+<img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/page2.png" width="250" height="450">
 
 
 3)  Click the Face paint button below the Hair selection button
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/BillGross.gif" width="250" height="250">
+<img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/BillGross.gif" width="250" height="250">
 
 
