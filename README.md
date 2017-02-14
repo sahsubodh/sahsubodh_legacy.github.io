@@ -14,7 +14,7 @@ a. Hair Selection
 b. Face Paint
 
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/page1.png" width="100" height="250">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/page1.png" width="250" height="500">
 
 
 
