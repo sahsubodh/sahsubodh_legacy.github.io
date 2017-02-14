@@ -13,6 +13,8 @@ Steps to use app:
 a. Hair Selection 
 b. Face Paint
 
+![alt tag](https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/page1.png)
+
 
 2)  Select the first button to chose Hair Style and customize hair color
 
@@ -54,4 +56,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
->>>>>>> 0c731244a1c0bcd5f3ffd1057b5b758a00ab93d4
+
