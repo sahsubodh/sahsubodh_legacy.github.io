@@ -4,9 +4,32 @@ You can download the apks from the link:
 
 https://drive.google.com/drive/u/2/folders/0B4BDq2xUQCd0MlN0ZU5lc3paeFE
 
-### Markdown
+### Instructions to use the app
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Steps to use app:
+
+1) Open App. Main Page has two options:
+
+a. Hair Selection 
+b. Face Paint
+
+
+Inline image 1
+
+
+
+2)  Select the first button to chose Hair Style and customize hair color
+
+The color selector is to change the hair color 
+We have two options of hair styles shown as 1 and 2 button.  To remove  selection click "X".
+
+after selecting the hair style press the back button.
+
+Inline image 2
+
+
+3)  Click the Face paint button below the Hair selection button
+
 
 ```markdown
 Syntax highlighted code block
