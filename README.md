@@ -13,10 +13,6 @@ Steps to use app:
 a. Hair Selection 
 b. Face Paint
 
-[[https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/page1.png|alt=octocat]]
- Main Page
-
-
 
 2)  Select the first button to chose Hair Style and customize hair color
 
