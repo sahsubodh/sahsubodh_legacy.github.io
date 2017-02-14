@@ -30,4 +30,6 @@ after selecting the hair style press the back button.
 
 3)  Click the Face paint button below the Hair selection button
 
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/BillGross.gif" width="250" height="250">
+
 
