@@ -12,10 +12,6 @@ Steps to use app:
 
 <img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/sts/1.png" width="250" height="450">
 
-<img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/page1.png" width="250" height="450">
-
-
-
 
 2)  Click the available song "One Chance(INTERSPEECH)":
 
@@ -67,10 +63,10 @@ Steps to use app:
 2) Type some Chinese characters in the text box to test the TTS:
 
     some sample text:
-    - 今天晚上去哪里吃晚饭? (Where are you getting dinner tonight?)
+    今天晚上去哪里吃晚饭? (Where are you getting dinner tonight?)
 
-    - 昨天我在帕萨迪纳跟同事吃了印度料理 （Yesterday I was eating Indian food with my colleagues in Pasadena.）
-    - 明天我回北京，要不要我帮你带东西回去？ （I'm going back to Beijing tomorrow, do you want me to bring anything back for you?)
+    昨天我在帕萨迪纳跟同事吃了印度料理 （Yesterday I was eating Indian food with my colleagues in Pasadena.）
+    明天我回北京，要不要我帮你带东西回去？ （I'm going back to Beijing tomorrow, do you want me to bring anything back for you?)
 
 <img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/dustintts/2.png" width="250" height="450">
 
@@ -107,6 +103,6 @@ Print image target from here and place it in front of the camera:
 
 <img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/Ovatar/5.PNG" width="250" height="450">
 
-<img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/Ovatar/6.PNG" width="250" height="450">
+<img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/Ovatar/6.png" width="250" height="450">
 
 
