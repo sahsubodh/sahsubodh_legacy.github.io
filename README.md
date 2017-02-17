@@ -93,6 +93,6 @@ Steps to use app:
 
 <img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/Ovatar/5.PNG" width="250" height="450">
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/Ovatar/6.PNG" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/Ovatar/6.png" width="250" height="450">
 
 
