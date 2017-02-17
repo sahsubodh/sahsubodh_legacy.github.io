@@ -64,7 +64,6 @@ Steps to use app:
 
     some sample text:
     今天晚上去哪里吃晚饭? (Where are you getting dinner tonight?)
-
     昨天我在帕萨迪纳跟同事吃了印度料理 （Yesterday I was eating Indian food with my colleagues in Pasadena.）
     明天我回北京，要不要我帮你带东西回去？ （I'm going back to Beijing tomorrow, do you want me to bring anything back for you?)
 
@@ -92,7 +91,7 @@ Steps to use app:
 
 2) Click on the AR Button unless you do not have the printed image Target. If you do not have a printed image target, press the Normal Button Instead:
 
-<img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/Ovatar/2.jpg" width="250" height="450">
+<img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/Ovatar/2.jpg" width="450" height="450">
 
 Print image target from here and place it in front of the camera:
 
