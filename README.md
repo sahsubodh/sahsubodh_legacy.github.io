@@ -33,3 +33,52 @@ after selecting the hair style press the back button.
 <img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/BillGross.gif" width="250" height="250">
 
 
+### Instructions to use the Speech to Singing App
+
+Steps to use app:
+
+1) Open App. Enter your email Id and press Login Button:
+
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170005.png" width="250" height="450">
+
+
+
+2)  Click the available song "One Chance(INTERSPEECH)":
+
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170012.png" width="250" height="450">
+
+
+3)  Make sure the room is silent room for recording your voice recording. Here  you will have to record the following phrase:
+
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170025.png" width="250" height="450">
+
+4)  You will have to create the voice recording by pressing the microphone button on the bottom of the page. It will turn red to start recording. Once you have read the phrase click the button again to submit the recording:
+
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170038.png" width="250" height="450">
+
+5) It will process the recording to convert it to singing.
+
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170051.png" width="250" height="450">
+
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170216-113803.png" width="250" height="450">
+
+
+6) Click the Red play button to see the options for getting song options. Then play the original song ,or the speech recording and the song in your voice.
+
+Result: Song in your voice
+Your Recording : The voice recording for the song
+Original Song: The original song in singers voice
+
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170137.png" width="250" height="450">
+
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170147.png" width="250" height="450">
+
+7) You can also try different modes for the song. Click on setting the song mode and chose any mode from the list : [automatic,manual,soprano,mezzo,alto,tenor,baritone,bass,speech,original] and submit. By Default it is Automatic mode.
+
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170202.png" width="250" height="450">
+
+8) You can also check out the history with the link for older recordings,songs and share it with other people.
+
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170216-113809.png" width="250" height="450">
+
+
