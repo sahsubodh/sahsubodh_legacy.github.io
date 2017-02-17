@@ -10,28 +10,28 @@ Steps to use app:
 
 1) Open App. Enter your email Id and press Login Button:
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170005.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/1.png" width="250" height="450">
 
 
 
 2)  Click the available song "One Chance(INTERSPEECH)":
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170012.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/2.png" width="250" height="450">
 
 
 3)  Make sure the room is silent room for recording your voice recording. Here  you will have to record the following phrase:
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170025.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/3.png" width="250" height="450">
 
 4)  You will have to create the voice recording by pressing the microphone button on the bottom of the page. It will turn red to start recording. Once you have read the phrase click the button again to submit the recording:
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170038.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/4.png" width="250" height="450">
 
 5) It will process the recording to convert it to singing.
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170051.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/5.png" width="250" height="450">
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170216-113803.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/6.png" width="250" height="450">
 
 
 6) Click the Red play button to see the options for getting song options. Then play the original song ,or the speech recording and the song in your voice.
@@ -93,6 +93,6 @@ Steps to use app:
 
 <img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/Ovatar/5.PNG" width="250" height="450">
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/Ovatar/6.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/Ovatar/6.PNG" width="250" height="450">
 
 
