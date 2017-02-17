@@ -12,6 +12,9 @@ Steps to use app:
 
 <img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/1.png" width="250" height="450">
 
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/page1.png" width="250" height="450">
+
+
 
 
 2)  Click the available song "One Chance(INTERSPEECH)":
@@ -40,9 +43,9 @@ Result: Song in your voice
 Your Recording : The voice recording for the song
 Original Song: The original song in singers voice
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170137.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/9.png" width="250" height="450">
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170147.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/10.png" width="250" height="450">
 
 7) You can also try different modes for the song. Click on setting the song mode and chose any mode from the list : [automatic,manual,soprano,mezzo,alto,tenor,baritone,bass,speech,original] and submit. By Default it is Automatic mode.
 
