@@ -46,11 +46,11 @@ Original Song: The original song in singers voice
 
 7) You can also try different modes for the song. Click on setting the song mode and chose any mode from the list : [automatic,manual,soprano,mezzo,alto,tenor,baritone,bass,speech,original] and submit. By Default it is Automatic mode.
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170215-170202.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/7.png" width="250" height="450">
 
 8) You can also check out the history with the link for older recordings,songs and share it with other people.
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/Screenshot_20170216-113809.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/sts/8.png" width="250" height="450">
 
 
 ### Instructions to use the TTS Chinese (Dustin)
@@ -59,19 +59,19 @@ Steps to use app:
 
 1) Login using your email id (any email id will do):
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/dustintts/Screenshot_20170215-170512.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/dustintts/1.png" width="250" height="450">
 
 2) Type some Chinese characters in the text box to test the TTS(I have used English but please type in Chinese):
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/dustintts/Screenshot_20170215-170517.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/dustintts/2.png" width="250" height="450">
 
 3) Click submit button.It will take some time to process:
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/dustintts/Screenshot_20170215-170623.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/dustintts/3.png" width="250" height="450">
 
 4) You can check the result with the new row in table:
 
-<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/dustintts/Screenshot_20170215-170631.png" width="250" height="450">
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/dustintts/4.png" width="250" height="450">
 
 dustinq sample: original voice of the person
 TTS - TTS output
