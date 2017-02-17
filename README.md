@@ -4,35 +4,6 @@ You can download the apks from the link:
 
 https://drive.google.com/drive/u/2/folders/0B4BDq2xUQCd0MlN0ZU5lc3paeFE
 
-### Instructions to use the app
-
-Steps to use app:
-
-1) Open App. Main Page has two options:
-
-a. Hair Selection 
-b. Face Paint
-
-
-<img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/page1.png" width="250" height="450">
-
-
-
-2)  Select the first button to chose Hair Style and customize hair color
-
-The color selector is to change the hair color 
-We have two options of hair styles shown as 1 and 2 button.  To remove  selection click "X".
-
-after selecting the hair style press the back button.
-
-<img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/page2.png" width="250" height="450">
-
-
-3)  Click the Face paint button below the Hair selection button
-
-<img src="https://raw.githubusercontent.com/sahsubodh/sahsubodh.github.io/master/imgs/BillGross.gif" width="250" height="250">
-
-
 ### Instructions to use the Speech to Singing App
 
 Steps to use app:
@@ -105,3 +76,23 @@ Steps to use app:
 dustinq sample: original voice of the person
 TTS - TTS output
 Oben Personalized Voice Output -> Oben output over TTS with prosody model included.
+
+### Instructions to use Virtual oVatar App
+
+Steps to use app:
+
+1) Open the App.Enter your email Id and press Sign In Button:
+
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/Ovatar/1.jpg" width="250" height="450">
+
+2) Click on the AR Button unless you do not have the printed image Target. If you do not have a printed image target, press the Normal Button Instead:
+
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/Ovatar/2.jpg" width="250" height="450">
+
+3) Position your devices camera over the printed Image Target.Be sure to turn your sound on. Click on any of the buttons to get different TTS outputs.
+
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/Ovatar/5.PNG" width="250" height="450">
+
+<img src="https://github.com/sahsubodh/sahsubodh.github.io/blob/master/imgs/Ovatar/6.PNG" width="250" height="450">
+
+
